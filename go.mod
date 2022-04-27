@@ -1,4 +1,4 @@
-module minimal-renovate-reproduction
+module github.com/rstdm/minimal-renovate-reproduction
 
 go 1.18
 
