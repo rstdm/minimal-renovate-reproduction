@@ -1,3 +1,6 @@
+This repository demonstrates this renovate bug: https://github.com/renovatebot/renovate/issues/15333
+
+
 # Current behavior
 
 This project uses helm v3.8.0. Renovate logs
